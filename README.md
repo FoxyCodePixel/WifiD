@@ -16,7 +16,7 @@ Easy wifi connector using nmcli
 4 : `sudo cp wifid.py /bin/wifid && chmod +x /bin/wifid` > (optional)                         
 
 # One line
-$ : `git clone https://github.com/FoxyCodePixel/WifiD.git && pip3 install colorama && python3 wifid.py`                 
+$ : `git clone https://github.com/FoxyCodePixel/WifiD.git && cd WifiD && pip3 install colorama && python3 wifid.py`                 
 
 # Social Media
 > Telegram  : https://telegram.me/IvanLipovsky             
