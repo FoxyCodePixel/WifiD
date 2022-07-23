@@ -1,14 +1,14 @@
+#!/usr/bin/env python3
+
 # Foxy Code Pixel
 # Github   : https://github.com/FoxyCodePixel 
 # Telegram : https://telegram.me/IvanLipovsky
-
 
 # LIbraries
 import os
 import sys
 import time
 from colorama import Fore as c
-
 
 # clear Terminal (optional)
 # os.system("clear")
@@ -68,4 +68,5 @@ def main():
   if option == "0":
     sys.exit()
 
-main()
+if __name__ == "__main__":
+    main()
