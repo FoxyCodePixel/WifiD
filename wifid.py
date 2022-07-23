@@ -1,10 +1,11 @@
-# CodeLickers
-# Github   : https://github.com/CodeLickers 
-# Telegram : https://telegram.me/codelickers
+# Foxy Code Pixel
+# Github   : https://github.com/FoxyCodePixel 
+# Telegram : https://telegram.me/IvanLipovsky
 
 
 # LIbraries
 import os
+import sys
 import time
 from colorama import Fore as c
 
@@ -20,7 +21,7 @@ icon = ( c.BLUE + """
 """ + c.BLUE + """  \     /|  ||  |  |  |""" + c.RED + """  |    `   \ 
 """ + c.BLUE + """   \/\_/ |__||__|  |__|""" + c.RED + """ /_______  / 
 """ + c.GREEN + """   Simple Wifi Manager""" + c.RED + """         \/ 
-""" + c.GREEN + """   By Code Lickers
+""" + c.GREEN + """   By FoxyCodePixel
 """ + c.RESET)
 
 # Menu
@@ -65,6 +66,6 @@ def main():
     main()
 
   if option == "0":
-    exit()
+    sys.exit()
 
 main()
