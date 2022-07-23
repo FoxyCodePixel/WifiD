@@ -1,7 +1,7 @@
 # Wifi D
 Easy wifi connector using nmcli                              
 
-![This is an image](https://github.com/FoxyCodePixel/WifiD/blob/main/FoxyCodePixel.jpg)
+![This is an image](https://github.com/FoxyCodePixel/WifiD/blob/main/WifiD.jpg)
 
 # Requirements
 1 : Python3                                   
